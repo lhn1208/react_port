@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_port/static/css/main.a6c294f9.css",
-    "main.js": "/react_port/static/js/main.ba4c4adf.js",
+    "main.js": "/react_port/static/js/main.a4f10d4c.js",
     "static/js/787.a2cb61a6.chunk.js": "/react_port/static/js/787.a2cb61a6.chunk.js",
     "static/media/travel.png": "/react_port/static/media/travel.d5350bf0f18cae3d4b29.png",
     "static/media/doctor.png": "/react_port/static/media/doctor.13a4cf4c81a2651074dc.png",
@@ -25,7 +25,6 @@
     "static/media/pc_crime.png": "/react_port/static/media/pc_crime.35b36998d2bc482ce5e4.png",
     "static/media/mb_mode_main.png": "/react_port/static/media/mb_mode_main.2c18c9124fe2efb7bfd4.png",
     "static/media/pc_sc.png": "/react_port/static/media/pc_sc.237594c9ab4ccedf5260.png",
-    "static/media/mb_sunbest.png": "/react_port/static/media/mb_sunbest.537ad92aa204c89fea6b.png",
     "static/media/mb_remembered.png": "/react_port/static/media/mb_remembered.f713731f8a2056cf7906.png",
     "static/media/mb_hidoc.png": "/react_port/static/media/mb_hidoc.a39f26b06048c3ddf188.png",
     "static/media/mb_mode_info.png": "/react_port/static/media/mb_mode_info.d5e367db9d6a2773c463.png",
@@ -38,7 +37,6 @@
     "static/media/mb_drville.png": "/react_port/static/media/mb_drville.0d2b73bf8b22af778914.png",
     "static/media/mb_crime.png": "/react_port/static/media/mb_crime.1f1cc657dc0828558dc3.png",
     "static/media/mb_mode_hotel.png": "/react_port/static/media/mb_mode_hotel.47416c1e602e975b7995.png",
-    "static/media/pc_sunbest.jpg": "/react_port/static/media/pc_sunbest.8ac949bfcfa550f7690c.jpg",
     "static/media/mb_sc_bank.png": "/react_port/static/media/mb_sc_bank.b4830b36dfd6cd2735a3.png",
     "static/media/mb_house.png": "/react_port/static/media/mb_house.3abd1fcf4de266b01f6b.png",
     "static/media/mb_mode_air.png": "/react_port/static/media/mb_mode_air.addb962b7db8e06716cd.png",
@@ -47,11 +45,11 @@
     "static/media/background.png": "/react_port/static/media/background.6402ab0853048e692f16.png",
     "index.html": "/react_port/index.html",
     "main.a6c294f9.css.map": "/react_port/static/css/main.a6c294f9.css.map",
-    "main.ba4c4adf.js.map": "/react_port/static/js/main.ba4c4adf.js.map",
+    "main.a4f10d4c.js.map": "/react_port/static/js/main.a4f10d4c.js.map",
     "787.a2cb61a6.chunk.js.map": "/react_port/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6c294f9.css",
-    "static/js/main.ba4c4adf.js"
+    "static/js/main.a4f10d4c.js"
   ]
 }
